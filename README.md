@@ -1,4 +1,4 @@
-# Hi, I'm Akram 👋
+# Hi, I'm Akram 
 
 Aspiring **SOC Analyst** transitioning into cybersecurity — currently working through the **Google Cybersecurity Professional Certificate** and **TryHackMe Premium**, and  **Security+** building hands-on skills in threat detection, incident response, and network security.
 
