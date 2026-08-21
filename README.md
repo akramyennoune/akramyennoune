@@ -10,7 +10,7 @@ Aspiring **SOC Analyst** transitioning into cybersecurity — currently working 
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 Featured tasks
 
 | Project | Description | Skills |
 |---|---|---|
