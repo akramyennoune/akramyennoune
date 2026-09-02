@@ -10,7 +10,7 @@ Aspiring **SOC Analyst** transitioning into cybersecurity — currently working 
 
 ---
 
-## 🧪 Featured tasks
+##  Featured tasks
 
 | Project | Description | Skills |
 |---|---|---|
@@ -20,11 +20,11 @@ Aspiring **SOC Analyst** transitioning into cybersecurity — currently working 
 | [Network Hardening Analysis](https://github.com/akramyennoune/Tasks-and-labs/blob/main/network-hardening.md) | Post-breach network hardening recommendations following a customer data compromise | Network hardening, breach analysis |
 | [OS Hardening Investigation](https://github.com/akramyennoune/Tasks-and-labs/blob/main/OS-hardening-1.md) | Investigated a site-loading security issue using `tcpdump` log analysis | OS hardening, packet analysis |
 
-👉 See all writeups in [Tasks-and-labs](https://github.com/akramyennoune/Tasks-and-labs) and my learning journey in [roadmap-writeups](https://github.com/akramyennoune/roadmap-writeups).
+ See all writeups in [Tasks-and-labs](https://github.com/akramyennoune/Tasks-and-labs) and my learning journey in [roadmap-writeups](https://github.com/akramyennoune/roadmap-writeups).
 
 ---
 
-## 🛠️ Tools & Frameworks
+## Tools & Frameworks
 
 `NIST CSF` · `PCI DSS` · `GDPR` · `tcpdump` · `Linux` · `TryHackMe`
 
