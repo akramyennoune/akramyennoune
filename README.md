@@ -5,7 +5,7 @@ I'm moving from IT into security operations and targeting SOC analyst roles. Thi
 ## Start here
 - [Investigation write-ups]([link]): log-based investigations, with queries and timelines
 - [roadmap](https://github.com/akramyennoune/roadmap): TryHackMe room write-ups and study notes
-- [Google Cybersecurity Certificate labs](https://github.com/akramyennoune/Tasks-and-labs): audits, incident response documentation, hardening reports
+- [Google Cybersecurity Certificate labs](https://github.com/akramyennoune/Google-course-tasks-and-labs): audits, incident response documentation, hardening reports
 
 ## Current focus
 - TryHackMe SOC Level 1 path
