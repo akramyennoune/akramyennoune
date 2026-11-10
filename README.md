@@ -1,14 +1,24 @@
-# 💫 About Me:
-# Akram Yennoune<br><br>I'm moving from IT into security operations and targeting SOC analyst roles. This profile holds my investigation write-ups, lab notes, and course projects.<br><br>## Start here<br>- [Investigation write-ups](https://github.com/akramyennoune/Writeups): log-based investigations, with queries and timelines<br>- [Google Cybersecurity Certificate labs](https://github.com/akramyennoune/Google-course-tasks-and-labs): audits, incident response documentation, hardening reports<br><br>## Current focus<br>- TryHackMe SOC Level 1 path<br>- Home SOC lab with elastic and windows 2022<br>- CompTIA Security+ on january/february 2027<br>- kc7 cyber<br>- brainerX cybersecurity bootcamp<br><br>## Certifications<br>- TryHackMe Pre Security (SEC0)<br><br>## Contact<br>[LinkedIn](https://www.linkedin.com/in/akram-yennoune-9b8045417/) | [TryHackMe](https://tryhackme.com/p/Akrammmm) <br>
+# Akram Yennoune
 
+I'm moving from IT into security operations and targeting SOC analyst roles. This profile holds my investigation write-ups, lab notes, and course projects.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/akram-yennoune-9b8045417/)
+## Start here
+- [Investigation write-ups](https://github.com/akramyennoune/Writeups): log-based investigations, with queries and timelines
+- [Google Cybersecurity Certificate labs](https://github.com/akramyennoune/Google-course-tasks-and-labs): audits, incident response documentation, hardening reports
 
-# 💻 Tech Stack:
+## Current focus
+- TryHackMe SOC Level 1 path
+- Home SOC lab with elastic and windows 2022
+- CompTIA Security+ on january/february 2027
+- kc7 cyber
+- brainerX cybersecurity bootcamp
 
+## Certifications
+- TryHackMe Pre Security (SEC0)
 
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/akram-yennoune-9b8045417/) | [TryHackMe](https://tryhackme.com/p/Akrammmm) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=akramyennoune&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=akramyennoune&theme=gruvbox&hide_border=true)<br/>
