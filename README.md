@@ -11,6 +11,8 @@ I'm moving from IT into security operations and targeting SOC analyst roles. Thi
 - TryHackMe SOC Level 1 path
 - Home SOC lab with elastic and windows 2022
 - CompTIA Security+ on january/february 2027
+- kc7 cyber
+- brainerX cybersecurity bootcamp
 
 ## Certifications
 - TryHackMe Pre Security (SEC0)
