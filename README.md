@@ -3,8 +3,7 @@
 I'm moving from IT into security operations and targeting SOC analyst roles. This profile holds my investigation write-ups, lab notes, and course projects.
 
 ## Start here
-- [Investigation write-ups]([link]): log-based investigations, with queries and timelines
-- [roadmap](https://github.com/akramyennoune/roadmap): TryHackMe room write-ups and study notes
+- [Investigation write-ups](https://github.com/akramyennoune/Writeups): log-based investigations, with queries and timelines
 - [Google Cybersecurity Certificate labs](https://github.com/akramyennoune/Google-course-tasks-and-labs): audits, incident response documentation, hardening reports
 
 ## Current focus
