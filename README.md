@@ -16,4 +16,4 @@ I'm moving from IT into security operations and targeting SOC analyst roles. Thi
 - TryHackMe Pre Security (SEC0)
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/akram-yennoune-9b8045417/) | [TryHackMe](https://tryhackme.com/p/Akrammmm) | [email] (yennakram9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akram-yennoune-9b8045417/) | [TryHackMe](https://tryhackme.com/p/Akrammmm) 
